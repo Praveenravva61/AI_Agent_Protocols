@@ -1,0 +1,8 @@
+google-adk
+google-genai
+google-adk-a2a 
+a2a-client
+fastapi 
+uvicorn 
+httpx 
+anyio
